@@ -5,6 +5,7 @@ public class Player {
 		// TODO Auto-generated method stub
 		System.out.println("Ganando con Java");
 		String nombreplayer ="Jugador";
+		System.out.println(nombreplayer);
 		
 	}
 
